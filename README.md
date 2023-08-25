@@ -1,4 +1,4 @@
-![image](https://github.com/ViniciusONevesRodrigues/ViniciusONevesRodrigues/assets/126347863/7bb1b307-a8cd-476f-956c-7af55d599134)<h1 align="center">
+<h1 align="center">
   <strong>Olá, Sou Vinicius Neves ❄️</strong>
 </h1>
 
