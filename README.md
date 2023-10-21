@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusONevesRodrigues&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusONevesRodrigues&hide_progress=true&theme=tokyonight" alt="Principais Linguagens" height="194px >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusONevesRodrigues&hide_progress=true&theme=tokyonight" alt="Principais Linguagens" >
 </p>
 
 <h2 align="center">
